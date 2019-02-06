@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_ubuntu__45045: 'http://ubuntu:45045/'}
+rosversion: '1.12.14
+
+  '
+run_id: 027e7ea0-299c-11e9-a44e-000c29d4a0a5
